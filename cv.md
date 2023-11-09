@@ -17,7 +17,7 @@ I'm a responsible and attentive to details specialist who is not afraid of compl
 - HTML
 - CSS/SASS
 - JavaScript, TypeScript
-- Nede.js
+- Node.js
 - React
 - Git
 - Jira, Conflunce
@@ -39,13 +39,13 @@ function squareRoots(a, b, c) {
 ```
 
 ## __Experience__
-- IT-Bootcamp, Junior Front-end Developer
+- IT-Bootcamp, Junior Front-end Developer (Aprel 2023 - August 2023)
 
 ## __Education__ 
 - __University:__ Belarusian State University of Informatics and Radioelectronics, Engineer in Information Technology and
-Management in Technical Systems
+Management in Technical Systems (September 2008 - June 2012)
 - __Courses:__
-  - [IT-Academy, Web development on JavaScript](https://www.it-academy.by/course/front-end-developer/razrabotka-veb-prilozheniy-na-javascript/)
+  - [IT-Academy, Web development on JavaScript](https://www.it-academy.by/course/front-end-developer/razrabotka-veb-prilozheniy-na-javascript/) (November 2022 - February 2023)
 
 ## __Languages__
 - Russian (Native)
