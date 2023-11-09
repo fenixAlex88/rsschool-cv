@@ -1,10 +1,12 @@
 # Markdown CV
 
-# __Aleksey Pekar__
+# __Aleksei Pekar__
 
 ## __Contacts__
 - __Location:__ Minsk, Belarus
 - __Phone:__ +375 29 645 88 29
+-  [__Linkedin__](https://www.linkedin.com/in/aleksei-pekar/)
+-  [__Skype__](https://join.skype.com/invite/FvSRAmADbn7C) 
 - __Email:__ fenix_al@tut.by
 - __GitHub:__ [Aleksey Pekar](https://github.com/fenixAlex88)
 
