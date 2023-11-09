@@ -11,6 +11,31 @@
 ## __About Me__
 I'm a responsible and attentive to details specialist who is not afraid of complex and unusual tasks. I can also find solutions in stressful situations. I constantly develop my professional skills and currently actively study Node.js.
 
+## __Skills__
+- HTML
+- CSS/SASS
+- JavaScript, TypeScript
+- Nede.js
+- React
+- Git
+- Jira, Conflunce
+
+## __Code Example__
+```sh
+function squareRoots(a, b, c) {
+        if (a === 0) // уравнение не квадратное
+            return [(-c) / b];
+        const d = b * b - 4 * a * c; // дискриминант
+        if (d < 0)
+            return []; // нет корней
+        if (d === 0)
+            return [-b / (2 * a)]; // один корень
+        const x1 = (-b + Math.sqrt(d)) / (2 * a);
+        const x2 = (-b - Math.sqrt(d)) / (2 * a);
+        return [x1, x2]; // два корня
+    }
+```
+
 ## __Experience__
 
 ## __Education__ 
