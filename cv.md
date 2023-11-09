@@ -37,6 +37,7 @@ function squareRoots(a, b, c) {
 ```
 
 ## __Experience__
+- IT-Bootcamp, Junior Front-end Developer
 
 ## __Education__ 
 - __University:__ Belarusian State University of Informatics and Radioelectronics, Engineer in Information Technology and
